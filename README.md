@@ -7,11 +7,11 @@
 <br>
 
 # Running the code
-## Prereqs
+### Prereqs
 - Python 3(may run on previous versions but has not been tested)
 - ... There may be others as my machine has been used quite a bit in the past. Let me know if something else is required and we can add it to the doc. 
 
-## Running the code and Tests
+### Running the code and Tests
 - To make things easy I have made both the unit test and the function runnable on its own. There is some conditional code at the bottom of the Food.py file that will only run when running that script directly. Without conditionalizting the input on Food.py, the unit test would have to pass through those inputs which is undersirable based on my understanding of the excercise. It is nice to be able to experiement with the function though :)
     - ```python3 Food.py```
 <br>
